@@ -1,0 +1,6 @@
+Read Me File!
+--------------------------------
+<information about trains goes here>
+
+We could use this space to create a changelog. 
+If we decide to use other people's resources, we should probably create a credits.txt
